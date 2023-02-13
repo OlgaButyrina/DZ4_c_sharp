@@ -1,0 +1,15 @@
+D:\Ольга\учеба ИТ\c#\DZ4\task25\bin\Debug\net6.0\task25.exe
+D:\Ольга\учеба ИТ\c#\DZ4\task25\bin\Debug\net6.0\task25.deps.json
+D:\Ольга\учеба ИТ\c#\DZ4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+D:\Ольга\учеба ИТ\c#\DZ4\task25\bin\Debug\net6.0\task25.dll
+D:\Ольга\учеба ИТ\c#\DZ4\task25\bin\Debug\net6.0\task25.pdb
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.dll
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\refint\task25.dll
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.pdb
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+D:\Ольга\учеба ИТ\c#\DZ4\task25\obj\Debug\net6.0\ref\task25.dll
